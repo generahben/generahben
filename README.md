@@ -2,8 +2,7 @@
 
 > <b>Pronounced:</b> jeh·nuh·ruh /ˈdʒen.ər.əh/ &nbsp; &nbsp; &nbsp; &nbsp;
 > <b>Twitter: </b>[@generahben](https://twitter.com/generahben)
-<img src="https://komarev.com/ghpvc/?username=generahben&style=flat-square&color=blue" alt=""/>
-<p align="left">
+
 <b>I know you don't like bugs!</b>
 <br/>
 I've unlocked a secret in programming, so you'll no longer need Google to squash a bug. Spray an insecticide close to your desk and bugs will be scared of you. If bug eventually show up on your system, gently spray an insecticide on it. The bug will die 😎😎<br/>
