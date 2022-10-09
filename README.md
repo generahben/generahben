@@ -2,7 +2,7 @@
 
 > <b>Pronounced:</b> jeh·nuh·ruh /ˈdʒen.ər.əh/ &nbsp; &nbsp; &nbsp; &nbsp;
 > <b>Twitter: </b>[@generahben](https://twitter.com/generahben)
-
+<img src="https://komarev.com/ghpvc/?username=generahben&style=flat-square&color=blue" alt=""/>
 <p align="left">
 <b>I know you don't like bugs!</b>
 <br/>
